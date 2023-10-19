@@ -49,28 +49,28 @@ Before diving into the world of machine learning, it's essential to build a stro
 
 ### Optimization 🎯
 
-    * Gradient Descent: Master the concept of gradient descent and its variants, which are the primary optimization techniques for training machine learning models.
+   * **Gradient Descent:** Master the concept of gradient descent and its variants, which are the primary optimization techniques for training machine learning models.
 
-    * Convex Optimization: Understand the principles of convex optimization, which play a crucial role in many machine learning algorithms.
+   * **Convex Optimization:** Understand the principles of convex optimization, which play a crucial role in many machine learning algorithms.
 
-    * Stochastic Gradient Descent (SGD): Learn about the stochastic variant of gradient descent, widely used for large datasets.
+   * **Stochastic Gradient Descent (SGD):** Learn about the stochastic variant of gradient descent, widely used for large datasets.
 
-    * Hyperparameter Tuning: Study how to optimize hyperparameters to fine-tune model performance.
+   * **Hyperparameter Tuning**: Study how to optimize hyperparameters to fine-tune model performance.
 
-    * Optimization Libraries: Familiarize yourself with optimization libraries like SciPy and TensorFlow's optimization modules.
+   * **Optimization Libraries:** Familiarize yourself with optimization libraries like SciPy and TensorFlow's optimization modules.
 
 ### Resources 📚
 
-    * 3Blue1Brown - The Essence of Linear Algebra: A series of videos providing geometric intuition to these concepts.
+   * **3Blue1Brown** - The Essence of Linear Algebra: A series of videos providing geometric intuition to these concepts.
 
-    StatQuest with Josh Starmer - Statistics Fundamentals: Offers simple and clear explanations for many statistical concepts.
+   * **StatQuest with Josh Starmer - Statistics Fundamentals:** Offers simple and clear explanations for many statistical concepts.
 
-    AP Statistics Intuition by Ms Aerin: A list of Medium articles providing intuition behind every probability distribution.
+   * **AP Statistics Intuition by Ms Aerin:** A list of Medium articles providing intuition behind every probability distribution.
 
-    Immersive Linear Algebra: Another visual interpretation of linear algebra.
+   * **Immersive Linear Algebra:** Another visual interpretation of linear algebra.
 
-    Khan Academy - Linear Algebra: Great for beginners, explaining concepts in a very intuitive way.
+   * **Khan Academy - Linear Algebra:** Great for beginners, explaining concepts in a very intuitive way.
 
-    Khan Academy - Calculus: An interactive course covering all the basics of calculus.
+   * **Khan Academy - Calculus:** An interactive course covering all the basics of calculus.
 
-    Khan Academy - Probability and Statistics: Delivers the material in an easy-to-understand format.
+   * **Khan Academy - Probability and Statistics:** Delivers the material in an easy-to-understand format.
