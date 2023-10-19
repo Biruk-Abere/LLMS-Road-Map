@@ -612,29 +612,29 @@ Take your language modeling skills to the next level with advanced techniques in
 
 ### Sentence Transformers 🌐🔍
 
-  * 📐 What are Sentence Transformers?: Explore models that derive semantically meaningful embeddings for sentences, paragraphs, or texts.
+  * 📐 **What are Sentence Transformers?**: Explore models that derive semantically meaningful embeddings for sentences, paragraphs, or texts.
 
-  * 🗂️ Storage and Retrieval: Learn how to store and retrieve embeddings using a vector database for rapid similarity search.
+  * 🗂️ **Storage and Retrieval**: Learn how to store and retrieve embeddings using a vector database for rapid similarity search.
 
 ### Fine-Tuning Language Models 📝🛠️
 
-  * 🎯 Fine-Tuning Process: Understand the process of fine-tuning pre-trained models on domain-specific datasets.
+  * 🎯 **Fine-Tuning Process**: Understand the process of fine-tuning pre-trained models on domain-specific datasets.
 
-  * 📈 Domain-Specific Tasks: Enhance the model's accuracy for specific tasks, such as medical text analysis or sentiment analysis for movie reviews.
+  * 📈 **Domain-Specific Tasks**: Enhance the model's accuracy for specific tasks, such as medical text analysis or sentiment analysis for movie reviews.
 
-  * ⚙️ Parameter-Efficient Techniques: Explore efficient ways to train or fine-tune models without massive data or computational resources, such as LoRA.
+  * ⚙️ **Parameter-Efficient Techniques**: Explore efficient ways to train or fine-tune models without massive data or computational resources, such as LoRA.
 
 ### Resources 📖
 
-  * 🚀 SBERT.net: A Python library to implement sentence transformers with numerous examples.
+  * 🚀 **SBERT.net**: A Python library to implement sentence transformers with numerous examples.
 
-  * 📜 Pinecone - Sentence Transformers: A mini-book on NLP for semantic search in general.
+  * 📜 **Pinecone** - Sentence Transformers: A mini-book on NLP for semantic search in general.
 
-  * 📰 Hugging Face - RLHF: A blog post introducing the concept of RLHF.
+  * 📰 **Hugging Face** - RLHF: A blog post introducing the concept of RLHF.
 
-  * 📚 Hugging Face - PEFT: Another library from Hugging Face implementing different techniques, such as LoRA.
+  * 📚 **Hugging Face** - PEFT: Another library from Hugging Face implementing different techniques, such as LoRA.
 
-  * 📘 Efficient LLM Training by Phil Schmid: Implementation of LoRA to fine-tune a Flan-T5 model.
+  * 📘 **Efficient LLM Training by Phil Schmid**: Implementation of LoRA to fine-tune a Flan-T5 model.
 
 #
 ## Large Language Model Operations (LLMOps) ⚙️🧰
