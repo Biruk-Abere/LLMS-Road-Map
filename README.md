@@ -1,4 +1,8 @@
 # Large Language Models Road Map 
+
+![Alt Text](Image URL)
+
+
 ## Mathematics for Machine Learning
 
 Before diving into the world of machine learning, it's essential to build a strong foundation in the mathematical concepts that power these algorithms. Here's a structured overview:
@@ -75,7 +79,7 @@ Before diving into the world of machine learning, it's essential to build a stro
    * **Khan Academy - Probability and Statistics:** Delivers the material in an easy-to-understand format.
 
 
-
+#
 ## PyTorch For Machine Learning 🧠
 
 PyTorch is an open-source machine learning library developed by Facebook's AI Research lab (FAIR). It is primarily used for deep learning and artificial intelligence research, as well as for building and training machine learning models. PyTorch provides a flexible and dynamic computational framework that allows developers to define and manipulate computational graphs in a more intuitive way compared to some other deep learning frameworks.
