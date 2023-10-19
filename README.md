@@ -5,47 +5,47 @@ Before diving into the world of machine learning, it's essential to build a stro
 
 ### Linear Algebra 🟩
 
-    - Vectors: These represent both data and model parameters. Understanding vector operations, dot products, and vector spaces is fundamental.
+* **Vectors**: These represent both data and model parameters. Understanding vector operations, dot products, and vector spaces is fundamental.
 
-    * Matrices: Matrices are the backbone of many machine learning operations. Learn about matrix multiplication, inverses, and transformations.
+* **Matrices**: Matrices are the backbone of many machine learning operations. Learn about matrix multiplication, inverses, and transformations.
 
-    * Determinants: Understand the determinant of a matrix and its importance in solving systems of linear equations and computing inverses.
+* **Determinants**: Understand the determinant of a matrix and its importance in solving systems of linear equations and computing inverses.
 
-    * Eigenvalues and Eigenvectors: These are crucial for understanding transformations and diagonalization of matrices, common in machine learning.
+* **Eigenvalues and Eigenvectors**: These are crucial for understanding transformations and diagonalization of matrices, common in machine learning.
 
-    Vector Spaces: Gain a deep understanding of vector spaces and subspaces, which are the bedrock of linear algebra in machine learning.
+* **Vector Spaces**: Gain a deep understanding of vector spaces and subspaces, which are the bedrock of linear algebra in machine learning.
 
 ### Calculus 📊
 
-    * Differential Calculus: Learn about derivatives and how they're used in optimization algorithms, such as gradient descent.
+ * **Differential Calculus**: Learn about derivatives and how they're used in optimization algorithms, such as gradient descent.
 
-    * Integral Calculus: Understand integrals and their role in computing areas, volumes, and probabilities.
+ * **Integral Calculus**: Understand integrals and their role in computing areas, volumes, and probabilities.
 
-    * Limits and Continuity: Study limits to grasp the idea of approaching a value as it gets infinitely close and the continuity of functions.
+ * **Limits and Continuity**: Study limits to grasp the idea of approaching a value as it gets infinitely close and the continuity of functions.
 
-    * Multivariable Calculus: Extend your calculus knowledge to functions of multiple variables, necessary for optimizing complex functions.
+ * **Multivariable Calculus**: Extend your calculus knowledge to functions of multiple variables, necessary for optimizing complex functions.
 
-    Gradients: Explore the concept of gradients and their use in optimization techniques like gradient descent.
+ * **Gradients:** Explore the concept of gradients and their use in optimization techniques like gradient descent.
 
 ### Probability and Statistics 📈📊
 
-    * Probability Theory: Understand basic probability concepts, including events, random variables, and probability distributions.
+  * **Probability Theory:** Understand basic probability concepts, including events, random variables, and probability distributions.
 
-    * Random Variables: Learn about discrete and continuous random variables, probability mass functions, and probability density functions.
+  * **Random Variables:** Learn about discrete and continuous random variables, probability mass functions, and probability density functions.
 
-    * Probability Distributions: Explore common probability distributions like the Gaussian (normal) distribution and the binomial distribution.
+  * **Probability Distributions:** Explore common probability distributions like the Gaussian (normal) distribution and the binomial distribution.
 
-    * Expectations: Study expected values and moments of random variables, which are used in model building and analysis.
+  * **Expectations**: Study expected values and moments of random variables, which are used in model building and analysis.
 
-    * Variance, Covariance, and Correlation: Understand measures of variability and the relationships between variables.
+  * **Variance, Covariance, and Correlation**: Understand measures of variability and the relationships between variables.
 
-    * Hypothesis Testing: Learn about statistical hypothesis testing, p-values, and significance levels.
+  * **Hypothesis Testing:** Learn about statistical hypothesis testing, p-values, and significance levels.
 
-    * Confidence Intervals: Understand how to construct confidence intervals for estimating population parameters.
+  * **Confidence Intervals:** Understand how to construct confidence intervals for estimating population parameters.
 
-    * Maximum Likelihood Estimation: Learn about the method for estimating model parameters that maximize the likelihood function.
+  * **Maximum Likelihood Estimation:** Learn about the method for estimating model parameters that maximize the likelihood function.
 
-    * Bayesian Inference: Explore the Bayesian approach to statistical inference and probability.
+  * **Bayesian Inference**: Explore the Bayesian approach to statistical inference and probability.
 
 ### Optimization 🎯
 
